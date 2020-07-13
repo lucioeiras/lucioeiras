@@ -1,16 +1,13 @@
-### Hi there 👋
+### 😀 Heyyyy 
+I'm a brazilian telecomunications student in ETE FMC technical school. Beyond that, I'm a programmer who loves solving problems.
 
-<!--
-**lucioeiras/lucioeiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Studies
+Current, I'm mastering the JavaScript stack (Node.js, ReactJS and React Native), but I decided back some steps and make the CS50 Introduction to Computer Science course. This course are adding serious knowledges that I gonna carry with me all my carrer. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😎 Jobs
+So far, I'm only desenvolving my program skills. However, I am willing to accept any opportunities that pass me by. I'm qualified to work in projects who envolve: 
+- Backend Web Development (Node.js and Express)
+- Frontend Web development (HTML, CSS and Vanilla JS or ReactJS)
+- Cross platform Mobile Development (with React Native)
+- Eletronical projects (Arduino and MSP430)
+- UI/UX design
