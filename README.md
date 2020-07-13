@@ -1,4 +1,4 @@
-### 😀 Heyyyy 
+# 😀 Heyyyy 
 I'm a brazilian telecomunications student in ETE FMC technical school. Beyond that, I'm a programmer who loves solving problems.
 
 ## 🚀 Studies
