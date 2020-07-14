@@ -1,13 +1,21 @@
-### 😀 About me
-I’m a student of telecommunications at the technical school ETE FMC. Furthermore, I am a programmer who loves to solve problems.
+# Diego Eiras
 
-### 🚀 Studies
-I am currently mastering the JavaScript stack (Node.js, ReactJS and React Native), but I decided to go back a few steps and take the CS50 "Introduction to Computer Science" course. This course is adding important knowledge that I will take with me throughout my career.
+[![Twitter Badge](https://img.shields.io/badge/-@eiras5g-2E933C?style=flat-square&labelColor=2E933CB&logo=twitter&logoColor=white&link=https://twitter.com/eiras5g)](https://twitter.com/eiras5g) 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Eiras-2E933C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-eiras-2005ba19b/)](https://www.linkedin.com/in/diego-eiras-2005ba19b/) 
+[![Dribbble Badge](https://img.shields.io/badge/-eiras5g-2E933C?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/eiras5g)](https://dribbble.com/eiras5g)
+[![Gmail Badge](https://img.shields.io/badge/-eiras.lucio@gmail.com-2E933C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eiras.lucio@gmail.com)](mailto:eiras.lucio@gmail.com)
 
-### 😎 Jobs
-For now, I'm just developing my programming skills. However, I’m willing to accept any opportunity that appears. I can work on projects that involve: 
+Student of telecommunications at technical school ETE FMC and programmer who loves solve problems.
+
+### Studing
+- Computer Science in CS50 "Introduction to Computer Science" course
+- Telecomunications in technical school ETE FMC
+- JavaScript stack (Node.js, ReactJS and React Native)
+- UI/UX design 
+
+### Skills
 - Backend Web Development (Node.js and Express)
-- Frontend Web development (HTML, CSS and Vanilla JS or ReactJS)
-- Cross platform Mobile Development (with React Native)
-- Eletronical projects (Arduino and MSP430)
+- Frontend Web Development (HTML, CSS and VanillaJS or ReactJS)
+- Cross-platform Mobile Development (React Native)
+- Embed circuits (Arduino and MSP430)
 - UI/UX design
