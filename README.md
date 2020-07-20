@@ -5,17 +5,13 @@
 [![Dribbble Badge](https://img.shields.io/badge/-eiras5g-2E933C?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/eiras5g)](https://dribbble.com/eiras5g)
 [![Gmail Badge](https://img.shields.io/badge/-eiras.lucio@gmail.com-2E933C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eiras.lucio@gmail.com)](mailto:eiras.lucio@gmail.com)
 
-Student of telecommunications at technical school ETE FMC and programmer who loves solve problems.
+👋 Hi, I'm Diego, Student of telecommunications at technical school ETE FMC and programmer who loves solve problems.
 
-### Studing
+### 📓 Studing
 - Computer Science in CS50 "Introduction to Computer Science" course
 - Telecomunications in technical school ETE FMC
 - JavaScript stack (Node.js, ReactJS and React Native)
 - UI/UX design 
 
-### Skills
-- Backend Web Development (Node.js and Express)
-- Frontend Web Development (HTML, CSS and VanillaJS or ReactJS)
-- Cross-platform Mobile Development (React Native)
-- Embed circuits (Arduino and MSP430)
-- UI/UX design
+### 🚀 Motivation
+I wanna be recoginazed as a great developer and work in greats companies where I can change the world some way.  
