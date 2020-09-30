@@ -17,8 +17,8 @@
 - UI/UX design
 
 ### 🔥 Current Projects 
-- Next Level Week project Proffy, v2.0
 - Ecommunity, my project for Projete 2020
+- Rocketcast, a custom podcast player
 - My web portfolio
 
 ### 👁️ Searching for oportunities to change the world
