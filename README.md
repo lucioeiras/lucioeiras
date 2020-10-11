@@ -1,4 +1,4 @@
-<img width="auto" src="https://user-images.githubusercontent.com/67290471/95113579-0be3fe00-0719-11eb-89cf-669f3853387d.png" />
+<img width="auto" src="https://user-images.githubusercontent.com/67290471/95683658-037d3e80-0bc3-11eb-8cd0-a11087eba98b.png" />
 
 # Diego Eiras
 
@@ -10,15 +10,17 @@
 👋 Hi, I'm Diego, Student of telecommunications at technical school ETE FMC and programmer who loves solve problems.
 
 ### 🚀 Studing
-- Telecomunications in technical school ETE FMC
-- TypeScript & JavaScript
-- Node.js
-- ReactJS and React Native
-- UI/UX design
+
+<p align="center">
+  <img src="https://img.icons8.com/color/80/000000/javascript.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://img.icons8.com/color/80/000000/nodejs.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/officel/80/000000/react.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/80/000000/flutter.png"/>
+</p>
 
 ### 🔥 Current Projects 
 - Ecommunity, my project for Projete 2020
-- Rocketcast, a custom podcast player
 - My web portfolio
 
-### 👁️ Searching for oportunities to change the world
+### 👁️ Searching for oportunities to change the world. 
+If you want me contribuing in your project, leave me a message!
