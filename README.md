@@ -1,5 +1,3 @@
-<img width="auto" src="https://user-images.githubusercontent.com/67290471/95683658-037d3e80-0bc3-11eb-8cd0-a11087eba98b.png" />
-
 # Diego Eiras
 
 [![Twitter Badge](https://img.shields.io/badge/-@eiras5g-1FD79F?style=flat-square&labelColor=2E933CB&logo=twitter&logoColor=white&link=https://twitter.com/eiras5g)](https://twitter.com/eiras5g) 
