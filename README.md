@@ -9,12 +9,11 @@
 
 ### 🚀 Studing
 
-<p align="center">
-  <img src="https://img.icons8.com/color/80/000000/javascript.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://img.icons8.com/color/80/000000/nodejs.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/officel/80/000000/react.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/80/000000/flutter.png"/>
-</p>
+<img src="https://img.icons8.com/color/80/000000/javascript.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.icons8.com/color/80/000000/nodejs.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/officel/80/000000/react.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/80/000000/flutter.png"/>
+
 
 ### 🔥 Current Projects 
 - Ecommunity, my project for Projete 2020
