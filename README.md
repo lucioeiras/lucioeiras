@@ -24,4 +24,4 @@
 
 <br>
 
-### ✉️ I'm available to work. If you are interested in my work, send me an email!
+### ✉️ I'm available to be hired. If you are interested in my work, send me an email!
