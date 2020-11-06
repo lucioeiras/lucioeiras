@@ -1,8 +1,8 @@
 # Diego Eiras
 
-[![Twitter Badge](https://img.shields.io/badge/-@eiras5g-08A0E9?style=flat-square&labelColor=2E933CB&logo=twitter&logoColor=white&link=https://twitter.com/eiras5g)](https://twitter.com/eiras5g) 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Eiras-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-eiras-2005ba19b/)](https://www.linkedin.com/in/diego-eiras-2005ba19b/) 
+[![Twitter Badge](https://img.shields.io/badge/-@eiras5g-08A0E9?style=flat-square&labelColor=2E933CB&logo=twitter&logoColor=white&link=https://twitter.com/eiras5g)](https://twitter.com/eiras5g)
 [![Dribbble Badge](https://img.shields.io/badge/-eiras5g-EA4C89?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/eiras5g)](https://dribbble.com/eiras5g)
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Eiras-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-eiras-2005ba19b/)](https://www.linkedin.com/in/diego-eiras-2005ba19b/) 
 [![Gmail Badge](https://img.shields.io/badge/-diegoeiras.dev@gmail.com-B23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoeiras.dev@gmail.com)](mailto:diegoeiras.dev@gmail.com)
 
 👋 Hi, I'm Diego, Student of telecommunications at technical school ETE FMC and programmer who loves solve problems.
@@ -17,10 +17,10 @@
 
 ### 👁️ Interested
 
-<img src="https://sdtimes.com/wp-content/uploads/2018/09/1_JsyV8lXMuTbRVLQ2FPYWAg-490x490.png" height="80px" width="80px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.itexto.com.br/devkico/wp-content/uploads/2020/02/electron_logo.png" height="80px" width="80px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://sdtimes.com/wp-content/uploads/2018/09/1_JsyV8lXMuTbRVLQ2FPYWAg-490x490.png" height="80px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" height="80px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" height="80px" width="80px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" height="80px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" height="80px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
