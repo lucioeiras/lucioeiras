@@ -6,22 +6,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-diegoeiras.dev@gmail.com-B23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoeiras.dev@gmail.com)](mailto:diegoeiras.dev@gmail.com)
 
 👋 Hi, I'm Diego, Student of telecommunications at technical school ETE FMC and programmer who loves solve problems.
-
-### 🚀 Studing
-
-<img src="https://img.icons8.com/color/80/000000/javascript.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://dimitr.im/static/5d08b3c68dd7a1c6e93fb0451be8db5d/c0bbd/nodejs.png" height="80px" width="80px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/officel/80/000000/react.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="80px" width="80px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-### 👁️ Interested
-
-<img src="https://img.icons8.com/color/452/typescript.png" height="80px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" height="80px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://miro.medium.com/max/400/1*wqYF-8Dmh7LhtLkKfERc3Q.png" height="80px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/452/golang.png" height="80px"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<br>
-
-### ✉️ I'm available to be hired. If you are interested in my work, send me an email!
