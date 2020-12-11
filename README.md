@@ -5,4 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Eiras-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-eiras-2005ba19b/)](https://www.linkedin.com/in/diego-eiras-2005ba19b/) 
 [![Gmail Badge](https://img.shields.io/badge/-diegoeiras.dev@gmail.com-B23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoeiras.dev@gmail.com)](mailto:diegoeiras.dev@gmail.com)
 
-👋 Hi, I'm Diego, Student of telecommunications at technical school ETE FMC and programmer who loves solve problems.
+👋 Hi, I'm Diego, a programmer who loves solve problems.
+🔥 I'm currently working with React at @4Intelligence
+
