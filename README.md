@@ -7,6 +7,6 @@
 
 ### 👋 About me
 
-I'm a Product Designer who loves to code. Currently coding with React and Node.js. There something that I can help, or you liked my profile? Consider send me an email :D !
+I'm a Developer and Designer who loves to solve problems. Currently coding with React and Node.js. Venturing into Go, Python, Vue. Studying Software Engineering at INATEL. There something that I can help, or you liked my profile? Consider send me an email :D !
 
 
